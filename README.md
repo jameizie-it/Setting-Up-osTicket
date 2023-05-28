@@ -7,19 +7,19 @@ Internet Information Services (IIS)
 <h2>Operating Systems Used </h2>
 Windows 10 (21H2)
 <h2>List of Prerequisites</h2>
-Create a Virtual Machine in Azure with Windows 10 OS, 2-4 Virtual CPUs, and a new Virtual Network (Vnet). Connect to the VM.
-Enable Internet Information Services (IIS) on the VM.
-Download and install PHP Manager for IIS, Rewrite Module, PHP 7.3.8, and VC_redist.x86.exe.
-Download and install MySQL 5.5.62 with the Standard Configuration, setting the password as "Password1."
-Register PHP with IIS.
-Download and extract osTicket.
-Copy the extracted "upload" folder to C:\inetpub\wwwroot and rename it to "osTicket."
-Enable required PHP extensions in IIS.
-Rename ost-sampleconfig.php to ost-config.php and adjust its permissions.
-Complete the osTicket setup in the browser, providing the necessary details.
-Download and install HeidiSQL.
-Create a MySQL database called "osTicket" using HeidiSQL.
-Continue setting up osTicket in the browser, providing the MySQL database, username, and password.
+- Create a Virtual Machine in Azure with Windows 10 OS, 2-4 Virtual CPUs, and a new Virtual Network (Vnet). Connect to the VM.
+- Enable Internet Information Services (IIS) on the VM.
+- Download and install PHP Manager for IIS, Rewrite Module, PHP 7.3.8, and VC_redist.x86.exe.
+- Download and install MySQL 5.5.62 with the Standard Configuration, setting the password as "Password1."
+- Register PHP with IIS.
+- Download and extract osTicket.
+- Copy the extracted "upload" folder to C:\inetpub\wwwroot and rename it to "osTicket."
+- Enable required PHP extensions in IIS.
+- Rename ost-sampleconfig.php to ost-config.php and adjust its permissions.
+- Complete the osTicket setup in the browser, providing the necessary details.
+- Download and install HeidiSQL.
+- Create a MySQL database called "osTicket" using HeidiSQL.
+- Continue setting up osTicket in the browser, providing the MySQL database, username, and password.
 <h2>Installation Steps</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
