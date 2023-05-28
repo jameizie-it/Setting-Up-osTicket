@@ -10,7 +10,7 @@ This tutorial outlines the prerequisites and installation process for osTicket, 
 - Internet Information Services (IIS)
 <h2>Operating Systems Used </h2>
 - Windows 10 (21H2)
-<h2>List of Prerequisites</h2>
+<h2>Steps:</h2>
 - Step 1: Create Azure VM with Windows <br>
 - Step 2: Enable IIS on VM <br>
 - Step 3: Install PHP and components <br>
