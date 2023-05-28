@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/r7UlOH2.png" alt="osTicket logo"/>
 </p>
 
 <h1>Step-by-Step Guide: Creating a Virtual Machine in Azure and Setting Up osTicket</h1>
