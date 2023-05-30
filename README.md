@@ -33,10 +33,6 @@ HeidiSQL: Download and install HeidiSQL, a MySQL database management tool, on yo
 Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will be beneficial for configuring and setting up osTicket.<br>
 <h2>Installation Steps</h2>
 
-  <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  </p>
-  
   <h2>Step 1: Provision a Virtual Machine in Azure</h2>
   <p>Provision a Virtual Machine in Azure with a Windows 10 operating system, 2-4 Virtual CPUs, and a new Virtual Network (Vnet). Establish a remote connection to the Virtual Machine.</p>
 
@@ -142,6 +138,11 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   <p>
     a. Provide "osTicket" as the MySQL Database and "root" as the MySQL Username.
   </p>
+  
+  <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  </p>
+  
 </body>
 </html>
 
