@@ -37,7 +37,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   <p>Provision a Virtual Machine in Azure with a Windows 10 operating system, 2-4 Virtual CPUs, and a new Virtual Network (Vnet). Establish a remote connection to the Virtual Machine.</p>
 
   <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/3wkonsP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 2: Configure Internet Information Services (IIS)</h2>
@@ -49,7 +49,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/TzY5klG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 3: Install additional components for osTicket</h2>
@@ -70,7 +70,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/gXlnE8k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 5: Install osTicket v1.15.8</h2>
@@ -82,7 +82,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/dN3PcKy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 6: Enable the required PHP extensions</h2>
@@ -94,7 +94,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/D1Js7NA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 7: Rename and configure ost-config.php</h2>
@@ -105,7 +105,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/V2uRoxF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 8: Complete the osTicket setup in the browser</h2>
@@ -123,7 +123,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/UJYHkPz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 10: Proceed with the osTicket setup in the browser</h2>
