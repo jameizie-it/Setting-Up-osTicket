@@ -70,7 +70,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/gXlnE8k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/6n4nCAt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 5: Install osTicket v1.15.8</h2>
