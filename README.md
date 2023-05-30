@@ -21,7 +21,7 @@ Administrator access: Make sure you have administrative access to the Azure Virt
 
 Internet Information Services (IIS): Familiarize yourself with the process of enabling and configuring Internet Information Services (IIS) on a Windows machine.<br>
 
-Downloaded files: Prior to starting the guide, download the following files to your local machine:<br>
+<a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Downloaded files</a>: Prior to starting the guide, download the following files to your local machine:<br>
 
 PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)<br>
 Rewrite Module (rewrite_amd64_en-US.msi)<br>
