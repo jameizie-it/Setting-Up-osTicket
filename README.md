@@ -82,7 +82,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/dN3PcKy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/wF9KLI4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 6: Enable the required PHP extensions</h2>
