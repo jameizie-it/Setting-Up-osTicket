@@ -94,7 +94,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/D1Js7NA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/HVujQKF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 7: Rename and configure ost-config.php</h2>
