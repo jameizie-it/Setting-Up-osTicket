@@ -123,7 +123,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   </p>
 
   <p>
-  <img src="https://i.imgur.com/UJYHkPz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/aNpAPDx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
   <h2>Step 10: Proceed with the osTicket setup in the browser</h2>
