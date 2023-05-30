@@ -101,7 +101,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   <p>
     a. Rename ost-sampleconfig.php (located in C:\inetpub\wwwroot\osTicket\include) to ost-config.php.<br>
     b. Adjust the permissions for ost-config.php by accessing its properties -> security -> advanced -> disabling inheritance -> removing all permissions.<br>
-    c. Add a new principal named "Everyone" with all permissions. Click OK and apply the changes.
+    c. Add a new principal named "Everyone" with "Full control" permissions. Click OK and apply the changes.
   </p>
 
   <p>
