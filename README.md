@@ -52,7 +52,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   <img src="https://i.imgur.com/TzY5klG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   
-  <h2>Step 3: Install additional components for osTicket</h2>
+  <h2>Step 3: <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Install</a> additional components for osTicket</h2>
   <p>
     a. Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).<br>
     b. Download and install the Rewrite Module (rewrite_amd64_en-US.msi).<br>
