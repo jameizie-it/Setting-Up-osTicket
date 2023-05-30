@@ -132,8 +132,8 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
     b. Press "Install Now!" <br>
     c. Afterwards: Delete the C:\inetpub\wwwroot\osTicket\setup folder. <br>
     d. Set the permissions of C:\inetpub\wwwroot\osTicket\include\ost-config and leave it so they can only read and execute + read <br>
-    f. Login page: http://localhost/osTicket/scp/login.php <br>
-    g. End User osTicket URL: http://localhost/osTicket/
+    e. Login page: http://localhost/osTicket/scp/login.php <br>
+    f. End User osTicket URL: http://localhost/osTicket/
 
   </p>
   
