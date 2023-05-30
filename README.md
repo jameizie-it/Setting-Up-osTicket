@@ -61,10 +61,6 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
     e. Download and install VC_redist.x86.exe (required for PHP).<br>
     f. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) with the Standard Configuration, setting the password as "Password1."
   </p>
-
-  <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  </p>
   
   <h2>Step 4: Configure PHP with IIS</h2>
   <p>
