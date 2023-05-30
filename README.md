@@ -64,9 +64,9 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   
   <h2>Step 4: Configure PHP with IIS</h2>
   <p>
-    a. Open IIS as an administrator and launch PHP Manager.<br>
+    a. Open IIS Manager as an administrator and launch PHP Manager.<br>
     b. Register a new PHP version by browsing to php-cgi.exe (located within the PHP installation).<br>
-    c. Restart IIS.
+    c. Restart IIS within IIS Manager app.
   </p>
 
   <p>
@@ -76,7 +76,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   <h2>Step 5: Install osTicket v1.15.8</h2>
   <p>
     a. Download osTicket and extract its contents.<br>
-    b. Rename the "upload" folder to "osTicket" and copy it to C:\inetpub\wwwroot.<br>
+    b. Rename the "upload" folder to "osTicket" and move it to C:\inetpub\wwwroot.<br>
     c. Stop and start the IIS server to reload the configuration.<br>
     d. Access the osTicket site by navigating to sites -> Default -> osTicket and clicking "Browse *:80" on the right.
   </p>
