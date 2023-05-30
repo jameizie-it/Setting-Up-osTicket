@@ -128,7 +128,7 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
   
   <h2>Step 10: Proceed with the osTicket setup in the browser</h2>
   <p>
-    a. Provide "osTicket" as the MySQL Database and "root" as the MySQL Username. <br>
+    a. Provide "osTicket" as the MySQL Database, "root" as the MySQL Username, and "Password1" as the MySQL Password. <br>
     b. Press "Install Now!" <br>
     c. Afterwards: Delete the C:\inetpub\wwwroot\osTicket\setup folder. <br>
     d. Set the permissions of C:\inetpub\wwwroot\osTicket\include\ost-config and leave it so they can only read and execute + read
