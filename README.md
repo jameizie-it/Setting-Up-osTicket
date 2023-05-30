@@ -131,10 +131,6 @@ Basic knowledge of PHP and MySQL: Familiarity with PHP and MySQL concepts will b
     a. Provide "osTicket" as the MySQL Database and "root" as the MySQL Username.
   </p>
   
-  <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  </p>
-  
 </body>
 </html>
 
